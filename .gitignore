@@ -31,3 +31,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+game.app
+*.tar.gz
+*.x86_64
